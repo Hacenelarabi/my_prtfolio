@@ -1,0 +1,32 @@
+body .table {
+    text-align: center;
+    margin-top: auto;
+    background-color: rgb(62, 62, 75);
+     padding-top: 206px;
+     padding-bottom: 206px;
+}
+.navbar {
+position:fixed;
+top: auto;
+botton: auto;
+display: visible;
+}
+.span {
+    text-align: center;
+    padding-left: 340px;
+    color: white;
+}
+.image {
+    padding-right: 75%;
+   border-radius: 100%;
+  
+    
+}
+.navbar-brand {
+    margin-right: 500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.item1, .item2, .item3 {
+    margin-right: 50px;
+}
