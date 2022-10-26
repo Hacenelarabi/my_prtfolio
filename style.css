@@ -2,8 +2,8 @@ body .table {
     text-align: center;
     margin-top: auto;
     background-color: rgb(62, 62, 75);
-     padding-top: 206px;
-     padding-bottom: 206px;
+     padding-top: 100px;
+     padding-bottom: 100px;
 }
 .navbar {
 position:fixed;
@@ -24,9 +24,55 @@ display: visible;
 }
 .navbar-brand {
     margin-right: 500px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
     font-weight: bolder;
 }
 .item1, .item2, .item3 {
     margin-right: 50px;
+}
+.discpt {
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    
+    
+    
+}
+
+.col {
+    font-size: 110px;
+
+}
+
+.icon {
+    margin-left: 100px;
+    
+}
+.icon1 {
+margin-left: 350px;
+
+}
+.icon2 {
+margin-left: 220px;
+margin-top: 100px;
+    
+}
+.icon3 {
+    margin-left: 510px;
+}
+.icona {
+    
+    margin-top: 55px;
+    margin-left: 476px;
+    color: white;
+}
+.botton {
+    margin-left: 37%;
+    
+}
+#body1 {
+    background-color: rgb(62, 62, 75);
+    
 }
