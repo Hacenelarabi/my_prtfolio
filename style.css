@@ -6,10 +6,9 @@ body .table {
      padding-bottom: 100px;
 }
 .navbar {
-position:fixed;
-top: auto;
-botton: auto;
-display: visible;
+
+
+
 }
 .span {
     text-align: center;
@@ -64,7 +63,7 @@ margin-top: 100px;
 }
 .icona {
     
-    margin-top: 55px;
+    margin-top: 0px;
     margin-left: 476px;
     color: white;
 }
@@ -74,5 +73,13 @@ margin-top: 100px;
 }
 #body1 {
     background-color: rgb(62, 62, 75);
+    margin-top: 0px;
     
+}
+.card {
+    width: 360px;
+    margin-top: 35px;
+}
+#bodyb {
+    background-color: rgb(62, 62, 75); 
 }
